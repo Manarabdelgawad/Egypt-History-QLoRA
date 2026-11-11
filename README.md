@@ -41,5 +41,5 @@ The model was trained on a custom-curated dataset of 200 high-quality English Q&
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ManarAbdelgawad/finetune-Egypt-History.git
+git clone https://github.com/Manarabdelgawad/Egypt-History-QLoRA.git
 cd finetune-Egypt-History
